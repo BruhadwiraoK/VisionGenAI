@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+.vscode/
+.idea/
+generated/*.png
+generated/*.jpg
+generated/*.jpeg
+.DS_Store
+Thumbs.db
